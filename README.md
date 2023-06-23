@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Meu nome é Victor ✌
 
-<!--
-**VictorBertolani/VictorBertolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Jogos Digitais 🎮
 
-Here are some ideas to get you started:
+- 💻 Programador com as linguagens:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+- Familiarizado com os programas:
+  
+<img  width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" /> 
+
+### Me encontre em outros lugares também 🤝:
+
+<a href="https://www.linkedin.com/in/victor-augusto-de-melo-bertolani-53ba50260/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style-for-the-badge&logo=linkedin&logoColor=white" />
+</a>
